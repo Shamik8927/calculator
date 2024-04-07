@@ -39,7 +39,7 @@ input[type="button"]{
 input[type="button"]:hover{
     background-color: #19d;
     outline: none;
-    border-radius: 50%;
+    /* border-radius: 50%; */
 }
 
 input[type="text"]{
